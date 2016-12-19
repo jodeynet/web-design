@@ -1,0 +1,54 @@
+.alt1
+{
+min-height:200px;
+color: white;
+text-align: center;
+position: relative;
+margin: 0 auto;
+}
+
+.item{
+	margin: 0 auto;
+}
+
+
+#jbt{
+	image-orientation: center;
+	margin: 0 auto;
+}
+
+#success_message{ display: none;}
+
+
+#logo{
+	max-height:35px;
+	max-width:50px;
+}
+
+#links{
+	 background: rgba(255,255,255,0.8);
+}
+
+footer{
+	text-align: center;
+	margin-bottom: 0;
+}
+
+cover{
+	position: relative;
+	width: 100%;
+	opacity: 50%;
+}
+
+.top{
+	position: absolute;
+	top: 400px;
+	left: 0;
+	width: 100%;
+	color: black;
+}
+.jumbotron{
+	height: 100vh;
+	width: 100vw;
+	background: rgba(0, 0, 0, 0);
+}
